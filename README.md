@@ -49,4 +49,4 @@ This project implements a basic face recognition system using the K-Nearest Neig
 To run the code, simply execute the script:
 
 ```bash
-python your_script.py
+python face_recognition.py
